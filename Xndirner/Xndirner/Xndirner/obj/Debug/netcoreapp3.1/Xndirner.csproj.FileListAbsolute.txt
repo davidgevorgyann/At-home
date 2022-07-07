@@ -1,0 +1,14 @@
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.exe
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.deps.json
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.runtimeconfig.json
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.runtimeconfig.dev.json
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.dll
+C:\Users\37499\source\repos\Xndirner\Xndirner\bin\Debug\netcoreapp3.1\Xndirner.pdb
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.csproj.AssemblyReference.cache
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.AssemblyInfoInputs.cache
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.AssemblyInfo.cs
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.csproj.CoreCompileInputs.cache
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.dll
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.pdb
+C:\Users\37499\source\repos\Xndirner\Xndirner\obj\Debug\netcoreapp3.1\Xndirner.genruntimeconfig.cache
