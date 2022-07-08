@@ -54,6 +54,29 @@ namespace Lesson_2
             //}
 
 
+            //Console.Write("Input a =");
+            //int a = Convert.ToInt32(Console.ReadLine());
+            //int sum = 0;
+            //int b = 0;
+
+
+            //for(int c = 10; c >= 0; c--)
+            //{
+            //    b = a % 10;
+            //    sum += b;
+            //    a = a / 10;
+            //}
+
+
+            //while (a!=0)
+            //{
+            //    b = a % 10;
+            //    sum += b;
+            //    a = a / 10;
+            //}
+
+            //Console.WriteLine(sum);
+
         }
     }
 }
