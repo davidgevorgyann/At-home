@@ -1,0 +1,14 @@
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.exe
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.deps.json
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.runtimeconfig.json
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.runtimeconfig.dev.json
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.dll
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\bin\Debug\netcoreapp3.1\Readonly and const.pdb
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.csproj.AssemblyReference.cache
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.AssemblyInfoInputs.cache
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.AssemblyInfo.cs
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.csproj.CoreCompileInputs.cache
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.dll
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.pdb
+C:\Users\37499\source\repos\Readonly and const\Readonly and const\obj\Debug\netcoreapp3.1\Readonly and const.genruntimeconfig.cache
